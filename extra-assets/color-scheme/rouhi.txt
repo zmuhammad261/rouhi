@@ -1,0 +1,49 @@
+Rouhi 
+
+References -
+THEMES
+ARCHI : http://demo.archiwp.com/arts-version/
+H&D : http://hnd-demo.detheme.com/landing
+
+DESIGN
+https://dribbble.com/shots/4804934-decore-interior-home-page/attachments/1080347
+https://dribbble.com/shots/5079371-Minteriror-landing-page/attachments/1125898
+
+Features:
+loader
+
+Plugins:
+1. Slider Revolution
+2. Visual Composer (WP Bakery)
+3. Contact 7 Form
+
+CSS/JS/PHP
+1. Bootstrap (http://getbootstrap.com)
+2. JPreloader (http://www.inwebson.com/demo/jpreloader-v2/)
+3. Animate CSS (https://daneden.github.io/animate.css/)
+4. Twenty TWwenty (https://zurb.com/playground/twentytwenty) 
+5. Maplace Js (https://maplacejs.com/)
+6. Wow Js ()
+7. Classie JS (https://cdnjs.com/libraries/classie)
+8. bfi_thumb - WP Image Resizer
+9. Isotope JS
+10. fullPage JS
+11. jquery.mousewheel.min.js
+12. jquery.touchSwipe.min.js
+13. jquery.stretch.js
+14. rangeslider.min.js
+15. jquery.event.move.js
+
+
+Fonts/ Icon Fonts
+1. Font Awesome (https://fontawesome.com/)
+2. ET LIne Icon (https://museomix.be/doc/Icons-ET-LineIcons.html)
+3. Elegant Icon (https://www.elegantthemes.com/blog/resources/elegant-icon-font)
+
+
+
+I. Header : 
+1. Top Fixed
+2. Static
+II. Slider -> Slider Revolution 
+
